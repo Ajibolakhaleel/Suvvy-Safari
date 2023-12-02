@@ -1,4 +1,4 @@
-# { MUB : Multi User Blog }
+# { Suvvy safari : Multi User Blog }
 
 **MUB** is a multi-user blog web app using the Python - Django infrastructure. It's works right now, however, I'm planning to add more features in the future. So, if you want to be informed, you can follow and/or give the star to the project.
 
@@ -17,7 +17,7 @@ Don't you like reading codes? You can also test [**MUBapp**](https://mubapp.hero
 
 <br>
 
-![](media/mubapp.gif)
+
 
 <br>
 
@@ -38,8 +38,7 @@ Don't you like reading codes? You can also test [**MUBapp**](https://mubapp.hero
 * Rich text editor for new and update post
 * Post create, update and delete on frontend
 * Clean and responsive design with TailwindCSS
-* SEO friendly meta tags system
-* Social share buttons
+* 
 
 
 <br>
@@ -71,8 +70,8 @@ whitenoise==5.0.1
 ### Project Tree
 
 ```
-├── mubapp
-    ├── Procfile
+├── Suvvy safari
+    ├── Profile
     ├── README.md
     ├── blog
     │   ├── __init__.py
@@ -103,7 +102,7 @@ whitenoise==5.0.1
     │   ├── images
     │   ├── profile_pics
     │   └── uploads
-    ├── mubapp
+    ├── Suvvy safari 
     │   ├── __init__.py
     │   ├── __pycache__
     │   ├── asgi.py
